@@ -2,9 +2,19 @@
     padding-top: 6rem;
     background-color: tomato;
 }
+
 #projek {
   background-color: tomato;
 }
+
 section {
   padding-top: 5rem;
+}
+
+.galeri-img {
+ padding: 100%;
+}
+
+#galeri .row > * {
+  padding: 0;
 }
