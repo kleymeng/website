@@ -1,6 +1,6 @@
 <?php
 $cvFilePath = 'img/pdf_20230801_083901_0000.pdf'; // Ganti dengan path yang sesuai ke file CV Anda
-$cvFileName = 'my_cv.pdf';
+$cvFileName = 'pdf_20230801_083901_0000.pdf';
 
 if (file_exists($cvFilePath)) {
     header('Content-Description: File Transfer');
